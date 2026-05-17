@@ -3,7 +3,7 @@ import { defineConfig } from "tina-cloud";
 export default defineConfig({
   branch: "main",
   clientId: "268dceaf-2b63-4d46-97b1-10656782aada", 
-token: "cee279ef2ee8249f9fc0b5041b52b4c204a909e1",
+token: "03ac9420285f798e36f1aac9e9406e1e058467f9",
   build: {
     outputFolder: "admin",
     publicFolder: "./",
