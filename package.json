@@ -1,1 +1,11 @@
-
+{
+  "name": "beefkes-website",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "tinacms dev",
+    "build": "tinacms build"
+  },
+  "dependencies": {
+    "tinacms": "^2.3.1"
+  }
+}
