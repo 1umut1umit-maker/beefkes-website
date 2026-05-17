@@ -2,8 +2,8 @@ import { defineConfig } from "tina-cloud";
 
 export default defineConfig({
   branch: "main",
-  clientId: null, // Tina.io panelinden hesap açınca otomatik dolacak
-  token: null,    // Tina.io panelinden hesap açınca otomatik dolacak
+  clientId: "268dceaf-2b63-4d46-97b1-10656782aada", 
+token: "cee279ef2ee8249f9fc0b5041b52b4c204a909e1",
   build: {
     outputFolder: "admin",
     publicFolder: "./",
